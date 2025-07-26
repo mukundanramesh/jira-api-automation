@@ -10,10 +10,10 @@ import pandas as pd  # Used for displaying data in a structured way (optional, b
 # Your JIRA domain
 JIRA_BASE_URL = 'https://appian-eng.atlassian.net'
 # Your email associated with the JIRA account
-JIRA_API_EMAIL = 'mukundan.ramesh@appian.com'
+JIRA_API_EMAIL = ''
 # --- Security: Get API Token from Environment Variable ---
 # Ensure you have set the JIRA_API_TOKEN environment variable
-JIRA_API_TOKEN = "ATATT3xFfGF0VpGXq0heJTYq4ag1QJ9TVkANUNm8V1sU0GZ2E-2uCuRmC64bRejMiwHgyv0d2gAd0WjxLt4183ny3jpOff9ctOveDG0y94oR6YClDB6jv5JC0V5vZ7iqvdx17nNWZ2mxAblnmgmWyH0raY2VgsoUeuxdbhcaBN1eD3yphvTdr2Q=8852148D"
+JIRA_API_TOKEN = ""
 
 
 
